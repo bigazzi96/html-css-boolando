@@ -27,6 +27,7 @@ nav{
     align-content: center;
     align-items: center;
     color: white;
+    width: 100%;
     }
 
 main{
@@ -69,6 +70,14 @@ article.product> span.sostenibilità{
     left: 4rem;
     bottom: 2rem;
     background-color: rgb(31, 174, 24);}
+
+    article.product> span.sostenibilità-green{
+        position: absolute;
+        left: 1rem;
+        bottom: 2rem;
+        background-color: rgb(31, 174, 24);}
+
+
 
 article.product> span.cambio{
     position: absolute;    
